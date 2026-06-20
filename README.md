@@ -17,8 +17,8 @@ Build a working music player using only HTML5. No CSS frameworks, no JavaScript.
 <audio src="song.mp3" controls></audio>
 ```
 
-### Screenshot
-![]
+### Screenshot 
+![HTML5 Audio Player Day 10](Screenshot_20260616_171541_Samsung%20Internet.jpg)
 
 ### Lesson Learned
 HTML alone can handle media. The `controls` attribute saves you 50 lines of JS.
