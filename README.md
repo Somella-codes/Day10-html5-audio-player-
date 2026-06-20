@@ -1,2 +1,24 @@
-# Day10-html5-audio-player-
-Day 10 #30DaysOfCode: 3-track music player built with HTML5 &lt;audio> tag. No CSS, no JavaScript. Demonstrates src and controls attributes for native media playback.
+# Day 10 - HTML5 Audio Player 🎵
+
+### Objective
+Build a working music player using only HTML5. No CSS frameworks, no JavaScript.
+
+### What I Built
+3-track audio player with:
+- `<audio>` tag for embedding sound
+- `src` attribute to load MP3 files  
+- `controls` attribute for native play/pause UI
+
+### Live Demo
+**Speck Editor:** []
+
+### Code Preview
+```html
+<audio src="song.mp3" controls></audio>
+```
+
+### Screenshot
+![]
+
+### Lesson Learned
+HTML alone can handle media. The `controls` attribute saves you 50 lines of JS.
