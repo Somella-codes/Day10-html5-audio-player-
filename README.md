@@ -10,7 +10,7 @@ Build a working music player using only HTML5. No CSS frameworks, no JavaScript.
 - `controls` attribute for native play/pause UI
 
 ### Live Demo
-**Speck Editor:** [▶️ View the audio player here](index (1).html)
+**Speck Editor:** [▶️ View the audio player here](index(1).html)
 
 ### Code Preview
 ```html
